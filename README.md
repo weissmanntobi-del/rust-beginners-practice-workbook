@@ -39,3 +39,6 @@ you’re ready to move into an advanced Rust course (ownership/deep lifetimes/ad
 
 📄 DOCX (editable)
 📄 PDF (print-friendly)
+
+Rust Beginner Mini Book Link : https://tobiweissmann.gumroad.com/l/dadeol
+
