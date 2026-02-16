@@ -37,8 +37,8 @@ you’re ready to move into an advanced Rust course (ownership/deep lifetimes/ad
 5) How to install Rust and run cargo run <br/>
 6) Basic familiarity with variables and functions (even from another language) <br/>
 
-📄 DOCX (editable)
-📄 PDF (print-friendly)
+📄 DOCX (editable) <br/>
+📄 PDF (print-friendly) <br/>
 
 Rust Beginner Mini Book Link : https://tobiweissmann.gumroad.com/l/dadeol
 
