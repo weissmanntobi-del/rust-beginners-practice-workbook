@@ -1,3 +1,4 @@
+## Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu
 # Rust-Beginners-Practice-Workbook  <br/>
 Rust Beginners Practice Workbook (40 Problems + 1 Mini Project) <br/>
 Build real confidence with Rust by solving, not just reading. <br/>
